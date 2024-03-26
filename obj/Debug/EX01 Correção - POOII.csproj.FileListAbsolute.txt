@@ -1,0 +1,7 @@
+C:\Users\annin\Downloads\EX01 Correção - POOII\obj\Debug\EX01 Correção - POOII.csproj.AssemblyReference.cache
+C:\Users\annin\Downloads\EX01 Correção - POOII\obj\Debug\EX01 Correção - POOII.csproj.CoreCompileInputs.cache
+C:\Users\annin\Downloads\EX01 Correção - POOII\bin\Debug\EX01 Correção - POOII.exe.config
+C:\Users\annin\Downloads\EX01 Correção - POOII\bin\Debug\EX01 Correção - POOII.exe
+C:\Users\annin\Downloads\EX01 Correção - POOII\bin\Debug\EX01 Correção - POOII.pdb
+C:\Users\annin\Downloads\EX01 Correção - POOII\obj\Debug\EX01 Correção - POOII.exe
+C:\Users\annin\Downloads\EX01 Correção - POOII\obj\Debug\EX01 Correção - POOII.pdb
